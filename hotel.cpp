@@ -16,5 +16,10 @@ public:
         void addRoom(std::string roomType, double price) {
       
     }
+    
+     void displayAvailableRooms() const {
+       
+    }
+//nothing
 
 
